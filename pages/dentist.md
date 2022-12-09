@@ -1,0 +1,4 @@
+- n. 牙醫
+- [[dent]] +[[ist]]
+- #position
+-
